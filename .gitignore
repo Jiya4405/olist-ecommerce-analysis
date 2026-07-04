@@ -1,0 +1,5 @@
+data/*.csv
+olist.db
+dashboard.log
+__pycache__/
+*.pyc
