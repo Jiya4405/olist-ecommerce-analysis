@@ -1,6 +1,6 @@
 # Olist Brazilian E-Commerce Analysis
 
-End-to-end analysis of ~99K orders from [Olist's Brazilian e-commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce): SQL exploration, pandas cleaning, an interactive dashboard, and a business memo.
+End-to-end analysis of ~99K orders from [Olist's Brazilian e-commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce): SQL exploration, pandas cleaning, an interactive Dash dashboard, and a business memo.
 
 **TL;DR:** late delivery is the strongest driver of poor reviews (4.21 avg score on-time vs 2.55 late), delays are heavily concentrated in northern Brazilian states, and cancellations cluster in a small set of underperforming sellers. Full writeup in [`memo.md`](memo.md).
 
